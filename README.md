@@ -24,7 +24,7 @@ Ce projet est un jeu en 2D dans lequel vous contrôlez et déplacez un personnag
 
 > [!NOTE]
 > [lien pour lancer le jeu en **ligne** ] : 
-> https://d-theprogrammer.github.io/Game-AirSoccer_in_Js-Html_with_AI/
+> https://d-theprogrammer.github.io/Game-Moving2D_Character/
 
 > [!TIP] 
 > il faut lancer un serveur Web **local** dans le répertoire contenant le fichier index.html à l’aide de la commande suivante :
@@ -50,7 +50,7 @@ This project is a 2D game in which you control and move a character with animati
 
 > [!NOTE]
 > [link to start the game **online** ] : 
-> https://d-theprogrammer.github.io/Game-AirSoccer_in_Js-Html_with_AI/
+> https://d-theprogrammer.github.io/Game-Moving2D_Character/
 
 > [!TIP] 
 > you must launch a **local** Web server in the directory containing the index.html file using the following command:
