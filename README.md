@@ -3,6 +3,11 @@
 
 [English] Character moving in a 2D environment using inputs
 
+### SOMMAIRE / SUMMARY
+- Présentation en francais / Presentation in French
+- Présentation en anglais / Presentation in English
+
+  
 ## [PRESENTATION]
 <div align="center">
 	<img width="426" alt="image" src="https://github.com/D-TheProgrammer/Game-Moving2D_Character/assets/151149998/293e5dcf-e48c-4332-b3df-295f1fc5437b">
