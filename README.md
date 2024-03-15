@@ -15,15 +15,15 @@
 ### __[FRANCAIS]__ 
 
 Ce projet est un jeu en 2D dans lequel vous contrôlez et déplacez un personnage avec des animations sur un décor. Vous pouvez vous déplacer à l'aide des touches directionnelles :  
-'z' -> pour se déplacer en HAUT  
-'e' -> pour se déplacer en diagonal en HAUT A DROITE  
-'d' -> pour se déplacer à DROITE  
-'x' -> pour se déplacer en diagonal en BAS A DROITE  
-'s' -> pour se déplacer en BAS  
-'w' -> pour se déplacer en diagonal en BAS A GAUCHE  
-'q' -> pour se déplacer à GAUCHE  
-'a' -> pour se déplacer en diagonal en HAUT A GAUCHE  
-' ' c'est-à-dire 'ESPACE' -> POUR DANSER  
+- 'z' -> pour se déplacer en HAUT  
+- 'e' -> pour se déplacer en diagonal en HAUT A DROITE  
+- 'd' -> pour se déplacer à DROITE  
+- 'x' -> pour se déplacer en diagonal en BAS A DROITE  
+- 's' -> pour se déplacer en BAS  
+- 'w' -> pour se déplacer en diagonal en BAS A GAUCHE  
+- 'q' -> pour se déplacer à GAUCHE  
+- 'a' -> pour se déplacer en diagonal en HAUT A GAUCHE  
+- ' ' c'est-à-dire 'ESPACE' -> POUR DANSER  
 
 
 > [!NOTE]
@@ -42,15 +42,15 @@ Ce projet est un jeu en 2D dans lequel vous contrôlez et déplacez un personnag
 ### __[ENGLISH]__ 
 
 This project is a 2D game in which you control and move a character with animations on a backdrop. You can move using the directional keys:  
-'z' -> to move UP  
-'e' -> to move diagonally UP RIGHT  
-'d' -> to move RIGHT  
-'x' -> to move diagonally DOWN RIGHT  
-'s' -> to move DOWN   
-'w' -> to move diagonally DOWN LEFT  
-'q' -> to move LEFT   
-'a' -> to move diagonally UP LEFT  
-' ' which means 'SPACE' -> TO DANCE  
+- 'z' -> to move UP  
+- 'e' -> to move diagonally UP RIGHT  
+- 'd' -> to move RIGHT  
+- 'x' -> to move diagonally DOWN RIGHT  
+- 's' -> to move DOWN   
+- 'w' -> to move diagonally DOWN LEFT  
+- 'q' -> to move LEFT   
+- 'a' -> to move diagonally UP LEFT  
+- ' ' which means 'SPACE' -> TO DANCE  
 
 > [!NOTE]
 > [link to start the game **online** ] : 
