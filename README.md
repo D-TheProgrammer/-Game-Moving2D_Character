@@ -3,10 +3,9 @@
 
 [English] Character moving in a 2D environment using inputs
 
-### SOMMAIRE / SUMMARY
-- Présentation en francais / Presentation in French
-- Présentation en anglais / Presentation in English
-
+#### SOMMAIRE / SUMMARY
+- [Présentation en francais / Presentation in French](#francais)
+- [Présentation en anglais / Presentation in English](#english)
   
 ## [PRESENTATION]
 <div align="center">
